@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Piyush Lonkar</h1>!
+<h1 align="center">Hi 👋, I'm Piyush Lonkar</h1>
 
 <h3 align="center">A passionate frontend developer, Penetration Tester, Python developer, Java developer from India</h3>
 <img src="https://www.reddit.com/media?url=https%3A%2F%2Fpreview.redd.it%2F7hvs58an33e41.gif%3Fwidth%3D930%26auto%3Dwebp%26s%3Dfc2ed95a75ff66619765f2ba742c6ab504847cd2" alt="Description" width="300"/>
